@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">prueba</string>
     <string name="hello">Hey there,</string>
+    <string name="create_account">Create an account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
 </resources>
